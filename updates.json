@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/autoreconnectrebirth/files",
+  "promos": {
+    "1.17.1-latest": "2.0.0",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.17.1-recommended": "2.0.0"
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    //...
+  }
+}
